@@ -2,10 +2,10 @@
   "name": "task-3",
   "version": "1.0.0",
   "description": "task-3",
-  "main": "schedule.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "babel-node schedule.js"
+    "start": "babel-node index.js"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -16,5 +16,8 @@
     "eslint-config-airbnb-base": "13.0.0",
     "eslint-plugin-import": "^2.12.0",
     "jsdoc": "^3.5.5"
+  },
+  "dependencies": {
+    "json-stringify-pretty-compact": "^1.2.0"
   }
 }
