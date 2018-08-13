@@ -1,7 +1,8 @@
 <h5><a id="_3_______0"></a><em>Задание 3 — реализовать алгоритм работы «умного дома»</em></h5>
-<h6><a id="_____dataoutputjson_2"></a><em>результат работы алгоритма лежит в <code>data/output.json</code></em></h6>
-<p><em><code>yarn install</code></em><br>
+<p><em><code>cd task-3</code></em><br>
+<em><code>yarn install</code></em><br>
 <em><code>yarn start</code></em></p>
+<h6><a id="_____dataoutputjson_2"></a><em>результат работы алгоритма лежит в <code>data/output.json</code></em></h6>
 <h6><a id="0______inputjson__datainputjson_7"></a><em>0 шаг - читаем входной файл <code>input.json</code> из <code>data/input.json</code></em></h6>
 <hr>
 <h6><a id="1____________9"></a><em>1 шаг - создадим заготовку объекта содержащего пока пустое расписание работы приборов.</em></h6>
